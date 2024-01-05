@@ -1,7 +1,7 @@
 
 # LeetCode Challenge D20
 ## Achievements
-[![image.png](https://i.postimg.cc/J4VTgVfn/image.png)](https://postimg.cc/23GFbJ8R)
+[![image.png](https://i.postimg.cc/Gmn5zcjY/image.png)](https://postimg.cc/Mvt5pJNK)
 
 This solution outperformed 100% of Java users on LeetCode according to runtime metrics.
 
